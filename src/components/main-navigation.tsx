@@ -6,7 +6,7 @@ export function MainNavigation() {
   return (
     <nav className="flex items-center space-x-6 lg:space-x-6">
       <NavLink to="/">Início</NavLink>
-      <NavLink to="/transfers">Transferências</NavLink>
+      <NavLink to="/transactions">Transações</NavLink>
     </nav>
   );
 }
