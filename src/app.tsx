@@ -7,8 +7,8 @@ import { router } from "./routes";
 export function App() {
   return (
     <HelmetProvider>
-      <ThemeProvider defaultTheme="dark" storageKey="finance-ui-theme">
-        <Helmet titleTemplate="%s | finance.app" />
+      <ThemeProvider defaultTheme="dark" storageKey="mumuca-finance-ui-theme">
+        <Helmet titleTemplate="%s | mumuca-finance.app" />
         <RouterProvider router={router} />
       </ThemeProvider>
     </HelmetProvider>
