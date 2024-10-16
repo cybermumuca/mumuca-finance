@@ -1,5 +1,8 @@
 # Mumuca Finance
 
+## Em desenvolvimento
+Este projeto ainda está em desenvolvimento ativo e não está pronto para uso.
+
 ## Descrição
 Mumuca Finance é uma aplicação de gerenciamento financeiro pessoal. Com ela, você pode acompanhar suas despesas, receitas e obter um resumo financeiro de suas contas.
 
